@@ -15,7 +15,7 @@
 
 <h3 align ="esquerda">Conecte-se comigo:</h3>
 <p align="esquerda">
-<a href="https://linkedin.com/pt/https://www.linkedin.com/pt/janaina-maria-0a8a85331?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bglvw9ibfs86lsrldxbwlca%3d%3d" target=" em branco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="https://www.linkedin.com/in/janaina-maria-0a8a85331?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bglvw9ibfs86lsrldxbwlca%3d%3d" altura="30" largura="40" />< /a>
+<a href=https://www.linkedin.com/notifications/?filter=all src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="https://www.linkedin.com/in/janaina-maria-0a8a85331?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bglvw9ibfs86lsrldxbwlca%3d%3d" altura="30" largura="40" />< /a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
