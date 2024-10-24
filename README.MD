@@ -7,7 +7,7 @@
 
 - 👯 Estou procurando colaborar em ** Testes de API**
 
-- 📝 Escrevo regularmente artigos sobre [https://www.linkedin.com/in/janaina-maria-0a8a85331?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGlVW9ibfS86lsRLdxbWlCA%3D%3D](https://www.linkedin.com/in/janaina- maria-0a8a85331?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGlVW9ibfS86lsRLdxbWlCA%3D%3D)
+- 📝 Escrevo regularmente artigos sobre https://www.linkedin.com/notifications/?filter=all
 
 - 💬 Pergunte-me sobre **testes,automação**
 
